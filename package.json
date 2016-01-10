@@ -1,16 +1,16 @@
 {
-  "name": "duotone-light-syntax",
+  "name": "duotone-light-sea-syntax",
   "theme": "syntax",
   "version": "0.4.0",
-  "description": "A light DuoTone syntax theme",
+  "description": "A light blue-green DuoTone syntax theme",
   "keywords": [
     "light",
-    "copper",
     "blue",
+    "green",
     "duotone",
     "syntax"
   ],
-  "repository": "https://github.com/simurai/duotone-light-syntax",
+  "repository": "https://github.com/5310/duotone-light-sea-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
