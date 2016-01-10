@@ -4,16 +4,9 @@ A brighter variant of the original [DuoTone Dark Sea](https://atom.io/themes/duo
 
 Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-light-syntax)
 
-![DuoTone light](https://cloud.githubusercontent.com/assets/378023/7219573/744b074e-e6e1-11e4-9112-623c60f08c79.png)
+![screenshot](https://raw.github.com/5310/duotone-bright-sea-syntax/master/screenshot.png)
 
-DuoTone light uses only 2 hues (copper & blue) and has 7 shades in total. It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
-
-![CSS in DuoTone light](https://cloud.githubusercontent.com/assets/378023/7219568/5caa00cc-e6e1-11e4-894c-1722a0f742df.png)
-
-![HTML in DuoTone light](https://cloud.githubusercontent.com/assets/378023/7219570/5cb14b2a-e6e1-11e4-9056-0280c9412e88.png)
-
-> The font in the screenshot is `Fira Mono`. You can download it from https://github.com/mozilla/Fira
-
+The following are features of the master DuoTone syntax theme.
 
 ### Currently tested and optimized for these languages:
 
