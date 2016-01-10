@@ -1,6 +1,6 @@
-# DuoTone light
+# DuoTone Bright Sea
 
-A brighter variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme based off of [Duotone Light](https://atom.io/themes/duotone-dark-sea-syntax).
+A brighter variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme for Atom.
 
 Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-light-syntax)
 
