@@ -1,6 +1,8 @@
 # DuoTone light
 
-A double-hue syntax theme for Atom.
+A brighter variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme based off of [Duotone Light](https://atom.io/themes/duotone-dark-sea-syntax).
+
+Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-light-syntax)
 
 ![DuoTone light](https://cloud.githubusercontent.com/assets/378023/7219573/744b074e-e6e1-11e4-9112-623c60f08c79.png)
 
