@@ -6,6 +6,8 @@ Very little of this repository has been altered from the origin: [simurai/duoton
 
 ![screenshot](https://raw.github.com/5310/duotone-bright-sea-syntax/master/screenshot.png)
 
+The colored highlights on the screenshot are from [Pigments](https://atom.io/packages/pigments).
+
 The following are features of the master DuoTone syntax theme.
 
 ## Language support
