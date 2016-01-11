@@ -1,6 +1,6 @@
 # DuoTone Bright Sea
 
-A brighter variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme for Atom.
+A brighter variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme for Atom. Integrates nicely with the One [Light](https://github.com/atom/one-light-ui) or [Dark](https://github.com/atom/one-dark-ui) UI themes.
 
 Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-light-syntax)
 
