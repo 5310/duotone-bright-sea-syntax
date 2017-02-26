@@ -1,17 +1,17 @@
 {
-  "name": "duotone-stark-sea-syntax",
+  "name": "duotone-bright-sea-syntax",
   "theme": "syntax",
-  "version": "2.1.0-3",
-  "description": "A greyer variant of the blue-green DuoTone Dark Sea syntax theme",
+  "version": "2.1.0",
+  "description": "A bright blue-green variant of the DuoTone Dark Sea syntax theme",
   "keywords": [
-    "dark",
+    "light",
     "blue",
     "green",
     "duotone",
     "syntax",
     "one-ui"
   ],
-  "repository": "https://github.com/5310/duotone-stark-sea-syntax",
+  "repository": "https://github.com/5310/duotone-bright-sea-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
