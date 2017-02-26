@@ -1,13 +1,12 @@
+# DuoTone Bright Sea
 
-# DuoTone Stark Sea
+A brighter variant of [DuoTone Stark Sea](https://atom.io/themes/duotone-stark-sea-syntax) theme for Atom, which itself is a variant of the original [DuoTone Stark Sea](https://atom.io/themes/duotone-dark-sea-syntax) by simurai. Integrates nicely with the One [Light](https://github.com/atom/one-light-ui) or [Dark](https://github.com/atom/one-dark-ui) UI themes.
 
-A greyer variant of the original [DuoTone Dark Sea](https://atom.io/themes/duotone-dark-sea-syntax) theme for Atom. Integrates nicely with the One [Light](https://github.com/atom/one-light-ui) or [Dark](https://github.com/atom/one-dark-ui) UI themes.
-
-Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-dark-sea-syntax)
+Very little of this repository has been altered from the origin: [simurai/duotone-light-syntax](https://github.com/simurai/duotone-dark-syntax)
 
 DuoTone themes use only 2 hues (8 shades in total). It __tones down__ less important parts (like punctuation and brackets) and highlights only the __important__ ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.
 
-![screenshot](https://raw.github.com/5310/duotone-stark-sea-syntax/master/screenshot.png)
+![screenshot](https://raw.github.com/5310/duotone-bright-sea-syntax/master/screenshot.png)
 
 ## Language support
 
