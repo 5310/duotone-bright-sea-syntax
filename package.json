@@ -11,7 +11,7 @@
     "syntax",
     "one-ui"
   ],
-  "repository": "https://github.com/simurai/duotone-dark-sea-syntax",
+  "repository": "https://github.com/5310/duotone-stark-sea-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.13.0 <2.0.0"
