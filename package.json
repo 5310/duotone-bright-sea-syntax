@@ -1,14 +1,15 @@
 {
   "name": "duotone-dark-sea-syntax",
   "theme": "syntax",
-  "version": "2.1.0",
-  "description": "A dark blue-green DuoTone syntax theme",
+  "version": "2.1.0-1",
+  "description": "A greyer variant of the blue-green DuoTone Dark Sea syntax theme",
   "keywords": [
     "dark",
     "blue",
     "green",
     "duotone",
-    "syntax"
+    "syntax",
+    "one-ui"
   ],
   "repository": "https://github.com/simurai/duotone-dark-sea-syntax",
   "license": "MIT",
